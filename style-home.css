@@ -1,0 +1,108 @@
+
+
+body {
+
+}
+
+
+#banner {
+	width: 100%
+}
+
+
+.principal {
+	background: #cccccc;
+	padding: 30px
+}
+
+
+.tituloprincipal {
+	padding-left: 40px;
+	font-size: 35px
+}
+
+
+.titulocentralizado {
+	text-align: center;
+}
+
+
+p  {
+	text-align: center;
+	font-size: 20px
+}
+
+
+#missao {
+	font-size: 27px
+}
+
+
+em strong {
+	color: white;
+}
+
+
+.itens {
+	font-style: italic
+}
+
+
+
+.beneficios {
+	background: #FFFFFF;
+	padding: 20px
+}
+
+
+.imagembeneficios {
+	width: 50%;
+	position: relative;
+    top: 35px;
+    right: 60px
+}
+
+h3 {
+	font-size: 20px;
+	margin-bottom: 40px
+}
+
+ul {
+	display: inline-block;
+	vertical-align: top;
+	position: relative;
+	top: 50px;
+	width: 20%;
+	margin-right: 15%;
+	font-size: 20px
+
+}
+
+.Confira {
+	display: inline-block;
+	font-size: 20px;
+	position: relative;
+	top: 40px;
+	left: 20px;
+	text-decoration:none;
+}
+
+footer {
+	align: center;
+	background: #cccccc;
+	font-size: 15px
+}
+
+.rodapé {
+	text-align: center;
+    font-size: 15px;
+    margin-top: 40px
+}
+
+.logo-branco {
+	width: 9%;
+}
+
+
+
+
